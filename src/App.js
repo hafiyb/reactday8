@@ -9,6 +9,7 @@ function App() {
     <Routes>
 
       <Route path="/details/:id" element={<Details/>}></Route>
+      <Route path="/reactday8/" element={<Home/>}></Route>
       <Route path="/" element={<Home/>}></Route>
       
     </Routes>

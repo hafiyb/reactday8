@@ -44,7 +44,7 @@ class Home extends React.Component{
                 <div className="flex flex-row py-5 px-10 bg-gray-900 text-white justify-between items-center w-full">
                     <h1 className="text-xl">Movies here</h1>
                     <div>
-                    <input className="p-3 rounded-lg" type="text" placeholder="Search..." ref={(a) => this._searchInput = a}/>
+                    <input className="p-3 rounded-lg text-black" type="text" placeholder="Search..." ref={(a) => this._searchInput = a}/>
                     <button className="p-3 border-2 rounded-lg border-black bg-red-600 text-white" onClick={() => this.movieSubmit()}>Search!</button>
                     </div> 
                 </div>
