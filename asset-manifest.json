@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reactday8/static/css/main.d59585c0.chunk.css",
-    "main.js": "/reactday8/static/js/main.fec30016.chunk.js",
-    "main.js.map": "/reactday8/static/js/main.fec30016.chunk.js.map",
+    "main.js": "/reactday8/static/js/main.20a0ebda.chunk.js",
+    "main.js.map": "/reactday8/static/js/main.20a0ebda.chunk.js.map",
     "runtime-main.js": "/reactday8/static/js/runtime-main.282c4f63.js",
     "runtime-main.js.map": "/reactday8/static/js/runtime-main.282c4f63.js.map",
     "static/js/2.f5e9dfa9.chunk.js": "/reactday8/static/js/2.f5e9dfa9.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.282c4f63.js",
     "static/js/2.f5e9dfa9.chunk.js",
     "static/css/main.d59585c0.chunk.css",
-    "static/js/main.fec30016.chunk.js"
+    "static/js/main.20a0ebda.chunk.js"
   ]
 }
